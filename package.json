@@ -1,0 +1,30 @@
+{
+  "name": "es-eventist",
+  "version": "0.0.1",
+  "description": "Postgres-based event stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hypesystem/eventist"
+  },
+  "keywords": [
+    "event",
+    "stream",
+    "events",
+    "es",
+    "event",
+    "sourcing",
+    "event",
+    "source",
+    "source"
+  ],
+  "author": "Niels Abildgaard <me@hypesystem.dk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hypesystem/eventist/issues"
+  },
+  "homepage": "https://github.com/hypesystem/eventist"
+}
